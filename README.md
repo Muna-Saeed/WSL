@@ -1,5 +1,7 @@
 Windows Subsystem for Linux (WSL) allows you to run a Linux distribution alongside your Windows installation without the need for a virtual machine. Here’s how you can install and set up WSL on your Windows machine using PowerShell:
 
+![result](image.png)
+
 ### Step-by-Step Guide to Installing WSL
 
 1. **Open PowerShell as Administrator**
