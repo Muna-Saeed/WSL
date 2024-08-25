@@ -1,9 +1,9 @@
-Issue after updating Elementor and/or Elementor Pro
+# Issue after updating Elementor and/or Elementor Pro
 After updating Elementor, the updated version may conflict with your current setup. Depending on what changes are not appearing, try the below troubleshooting steps.
-
-Issue	Solution
-Files or Data Files issues	1. Go to WP Admin > Elementor > Tools.
-2. Click Regenerate Files & Data.
+(Troubleshooting)[https://elementor.com/help/changes-dont-appear-online/?utm_source=wp-notification-banner&utm_campaign=learn&utm_medium=wp-dash]
+## Issue	                      Solution
+**Files or Data Files issues**	1. Go to WP Admin > Elementor > Tools.
+                                2. Click Regenerate Files & Data.
 Cache and optimization issues	1. Clear optimizations and cache third-party plugins before updating. Ensure that they are disabled when you update.
 2. Ensure that you do not have server caching enabled. You may need to consult your current hosting provider for additional assistance.
 Issue with Elementor features	1. Deactivate Elementor features to eliminate issues with experimental features, mainly performance features such as Inline Font Icons and Improved CSS Loading.
