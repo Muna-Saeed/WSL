@@ -4,10 +4,15 @@ After updating Elementor, the updated version may conflict with your current set
 
 ## Issue	                              Solution
 
-**Files or Data Files issues**	        1. Go to WP Admin > Elementor > Tools.
-                                        2. Click Regenerate Files & Data.
+**Files or Data Files issues**	       
+
+1. Go to WP Admin > Elementor > Tools.
+
+
+2. Click Regenerate Files & Data.
+   
 Cache and optimization issues	1. Clear optimizations and cache third-party plugins before updating. Ensure that they are disabled when you update.
-2. Ensure that you do not have server caching enabled. You may need to consult your current hosting provider for additional assistance.
+4. Ensure that you do not have server caching enabled. You may need to consult your current hosting provider for additional assistance.
 Issue with Elementor features	1. Deactivate Elementor features to eliminate issues with experimental features, mainly performance features such as Inline Font Icons and Improved CSS Loading.
 2. Deactivate features by going to WP Admin > Elementor > Settings > Features.
 3rd party plugin conflicts	Disable all plugins except Elementor and Elementor Pro on your staging site to eliminate any possible conflicts with third-party plugins.
